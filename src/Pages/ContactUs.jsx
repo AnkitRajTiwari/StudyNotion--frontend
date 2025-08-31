@@ -13,7 +13,7 @@ const ContactUs = () => {
       logo: <IoIosChatbubbles className="text-2xl sm:text-3xl" />,
       heading: 'Chat on Us',
       description: 'Our friendly team is here to help.',
-      connect: 'jsheta15@gmail.com',
+      connect: 'ankittiwari.at2022@gmail.com',
     },
     {
       logo: <FaEarthEurope className="text-2xl sm:text-3xl" />,
@@ -25,7 +25,7 @@ const ContactUs = () => {
       logo: <IoCall className="text-2xl sm:text-3xl" />,
       heading: 'Call Us',
       description: 'Mon - Fri From 8am to 5pm',
-      connect: '+91 9909246267',
+      connect: '+91 9155935491',
     },
   ];
 
